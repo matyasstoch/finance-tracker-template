@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.env.*
+private/
+bank-statements/
+*.csv
+!accounting/expenses/*.csv
